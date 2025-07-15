@@ -39,7 +39,7 @@ Here are a few things I’m working on or plan to include in my portfolio:
 
 - 💌 Email: [lebakanthabiseng08@gmail.com] 
 - 💼 LinkedIn: [www.linkedin.com/in/nthabisengmoloi]  
-- 🐙 GitHub: [github.com/nthabi2905]
+- 🐙 GitHub: [https://github.com/Nthabi2905]
 
 ---
 
