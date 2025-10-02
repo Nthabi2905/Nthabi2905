@@ -1,61 +1,84 @@
-# 👋 Hi there, I'm Nthabiseng Moloi!
+# Welcome to my Software Development Journey!
 
-🌍 I'm based in Cape Town, South Africa  
-💻 I'm transitioning into a **Software Developer** with a background in **STEM education**, **science communication**, and **robotics**  
-🚀 I'm passionate about using **technology to solve real-world problems**, especially in **education**   
-🎯 I'm working on projects that blend my STEM experience with software development
+# 👋 Hi, I'm Nthabiseng Moloi
 
----
-
-## 🔧 Tech Stack
-
-- **Languages**: HTML5, CSS3, JavaScript 
-- **Frameworks & Libraries**: React, Node.js, Tailwind CSS  
-- **Tools**: Git & GitHub, VS Code, Figma, Canva  
-- **Learning Platforms**: CodeSpace, Scrimba, ALX, The Odin Project
+🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
 ---
 
-## 🧠 Projects
+## 🎯 About Me
 
-Here are a few things I’m working on or plan to include in my portfolio:
-- 🚀 **STEM Learning Game** – A mobile game that teaches coding to children in underserved communities  
-- 🌐 **Portfolio Website** – Built with HTML/CSS and React to showcase my projects and skills  
-- 🛰️ **Space Education Hub** – A web app idea to centralize STEM resources for learners and educators  
-- 💼 **Profile & CV Page** – A responsive personal website with CV download and animation
-
----
-
-## ✨ What I Bring
-
-- ✔️ Strong communication and presentation skills  
-- ✔️ Background in teaching and simplifying complex STEM topics  
-- ✔️ Experience managing outreach and education programs  
-- ✔️ A creative and human-centered approach to software development
+- 💡 I'm currently learning **GitHub and version control** before diving into coding.
+- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
+- 🤖 I love problem-solving and working on creative projects.
+- 🔥 Looking forward to building my first real-world application.
 
 ---
 
-## 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-- 💌 Email: [lebakanthabiseng08@gmail.com] 
-- 💼 LinkedIn: [www.linkedin.com/in/nthabisengmoloi]  
-- 🐙 GitHub: [https://github.com/Nthabi2905]
+**Currently learning:**
+
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
+
+**Future Technologies:**
+
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
 
-_“Technology is best when it brings people together.”_ – Matt Mullenweg
+## 🏆 Soft Skills
 
-<!--
-**Nthabi2905/Nthabi2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🤝 Teamwork & Collaboration
+- 📢 Communication Skills
+- 🎯 Problem-Solving
+- 🚀 Adaptability
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+
+Here are some of my milestone projects (to be updated as I progress!):
+
+### **1️⃣ First GitHub Project**
+
+🔹 **Description:** My first project using GitHub to manage files.  
+🔹 **Status:** ✅ Completed
+
+### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+
+🔹 **Description:** A simple portfolio to showcase my projects.  
+🔹 **Technologies:** HTML, CSS
+🔹 **Status:** ⏳ In Progress
+
+---
+
+## 📚 Learning Goals
+
+- 🚀 Get comfortable using Git and GitHub
+- 🎨 Learn HTML, CSS, and JavaScript
+- 💡 Build real-world projects and collaborate with others
+
+---
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Nthabi2905)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nthabisengmoloi)  
+📧 Email: [lebakanthabiseng08@gmail.com](mailto:lebakanthabiseng08@gmail.com)
+
+---
+
+## 🚀 Fun Fact
+
+💡 I enjoy breaking things and putting them together again to better understand how they work!
+
+---
+
+## 🏆 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nthabi2905&show_icons=true&theme=radical)
+
