@@ -8,8 +8,8 @@
 
 ## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control** before diving into coding.
-- 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
+- 💡 I'm currently learning **GitHub and version control, HTML, CSS** before diving into coding.
+- 🎓 Soon, I'll be exploring **JavaScript**!
 - 🤖 I love problem-solving and working on creative projects.
 - 🔥 Looking forward to building my first real-world application.
 
