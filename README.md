@@ -49,23 +49,23 @@ My next chapter is focused on building web-based solutions that make STEM educat
 ## 📌 Projects
 
 ### 🔹 [Christmas Promo](https://github.com/Nthabi2905/christmas-promo)  
-**Description:** A festive Christmas-themed web page featuring a beautifully designed SVG Christmas tree created entirely with HTML and CSS.  
-**Technologies:** HTML, CSS  
-**Status:** ✅ Completed  
+- **Description:** A festive Christmas-themed web page featuring a beautifully designed SVG Christmas tree created entirely with HTML and CSS.  
+- **Technologies:** HTML, CSS  
+- **Status:** ✅ Completed  
 
 ---
 
 ### 🔹 [Responsive Layout Project](https://github.com/Nthabi2905/Module_08_NTHMOL25550_PTO2508_A_Nthabiseng-Moloi_SDF04) 
-**Description:** This is a solution to the CS Footer on CodeSpace Academy as part of the Frontend Software Development Course..  
-**Technologies:** HTML, CSS, SVG 
-**Status:** ✅ Completed  
+- **Description:** This is a solution to the CS Footer on CodeSpace Academy as part of the Frontend Software Development Course..  
+- **Technologies:** HTML, CSS, SVG 
+- **Status:** ✅ Completed  
 
 ---
 
 ### 🔹 [Personal Portfolio (Coming Soon!)](#)  
-**Description:** A portfolio to showcase my projects and growth as a developer and a Science Communicator.  
-**Technologies:** HTML, CSS  
-**Status:** ⏳ In Progress  
+- **Description:** A portfolio to showcase my projects and growth as a developer and a Science Communicator.  
+- **Technologies:** HTML, CSS  
+- **Status:** ⏳ In Progress  
 
 
 ---
