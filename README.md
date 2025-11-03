@@ -7,11 +7,24 @@
 
 
 ## 💡 About Me  
-I am a **dynamic and results-driven education and event specialist** with over five years of experience designing and managing successful **science engagement** and **STEM education** programmes.  
-I’m currently transitioning into **software development**, combining my background in **science communication** with my growing skills in **web technologies** to build tools that make STEM more accessible for learners and educators.  
+I'm an educator and science engagement specialist turned aspiring software developer, passionate about bridging the gap between education and technology.
 
+With over five years of experience leading STEM programmes from managing outreach at SANSA to directing academic initiatives at Somerset College. I’ve built a career on empowering learners through hands-on science and coding experiences.
+
+My next chapter is focused on building web-based solutions that make STEM education more interactive, inclusive, and accessible to all learners.
 
 ---
+
+## 💻 Skills & Technologies  
+
+### 🎓 Core Competencies  
+- 🧠 Curriculum Design & CAPS-Aligned Content Development  
+- 🤖 Coding & Robotics Education  
+- 🗣️ Public Speaking & Science Communication  
+- 📱 Social Media Management (Instagram, Facebook)  
+- 🧩 Project Management & Stakeholder Relations  
+- 💡 Digital Content Creation & Event Coordination  
+- 💰 Fundraising & Donor Reporting
 
 ## 🛠️ Tech Stack
 
@@ -30,15 +43,6 @@ I’m currently transitioning into **software development**, combining my backgr
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
   
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
-
----
-
-## 🏆 Soft Skills
-
-- 🤝 Teamwork & Collaboration
-- 📢 Communication Skills
-- 🎯 Problem-Solving
-- 🚀 Adaptability
 
 ---
 
