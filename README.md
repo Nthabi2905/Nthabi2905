@@ -48,32 +48,62 @@ My next chapter is focused on building web-based solutions that make STEM educat
 
 ## 📌 Projects
 
-### 🔹 [First GitHub Project](https://github.com/Nthabi2905/HTML-basics)  
-**Description:** My first project exploring GitHub basics — file management, commits, and version control.  
-**Technologies:** Git, HTML  
+### 🔹 [Christmas Promo](https://github.com/Nthabi2905/christmas-promo)  
+**Description:** A festive Christmas-themed web page featuring a beautifully designed SVG Christmas tree created entirely with HTML and CSS.  
+**Technologies:** HTML, CSS  
 **Status:** ✅ Completed  
 
 ---
 
-### 🔹 [404 Error Page](https://github.com/Nthabi2905/404-error-page)  
-**Description:** A responsive and creative 404 error page built as part of my HTML/CSS learning journey.  
-**Technologies:** HTML, CSS  
+### 🔹 [Responsive Layout Project](https://github.com/Nthabi2905/Module_08_NTHMOL25550_PTO2508_A_Nthabiseng-Moloi_SDF04) 
+**Description:** This is a solution to the CS Footer on CodeSpace Academy as part of the Frontend Software Development Course..  
+**Technologies:** HTML, CSS, SVG 
 **Status:** ✅ Completed  
 
 ---
 
 ### 🔹 [Personal Portfolio (Coming Soon!)](#)  
-**Description:** A portfolio to showcase my projects and growth as a developer and STEM educator.  
+**Description:** A portfolio to showcase my projects and growth as a developer and a Science Communicator.  
 **Technologies:** HTML, CSS  
 **Status:** ⏳ In Progress  
 
+
+---
+## 💡 Hackathon Experience  
+
+### 🏆 **KPN x CodeSpace Hackathon ( Nov 2025)**  
+- Reached the **finals** by developing an innovative web-based idea aimed at improving **STEM outreach coordination**.  
+- Gained valuable experience in **team collaboration, design thinking, and pitching technical ideas**.  
+
+### ⚡ **FNB App of the Year Hackathon ( Oct 2025)**  
+- Participated in a **72-hour challenge** to prototype a mobile solution.  
+- Although not submitted, the experience provided **incredible insights, expert mentorship, and constructive feedback** from industry mentors.  
+- Strengthened my understanding of **UI/UX design, product thinking, and agile teamwork**. 
+
 ---
 
-## 📚 Learning Goals
+## 🌍 Professional Experience
 
-- 🚀 Get comfortable using Git and GitHub
-- 🎨 Learn HTML, CSS, and JavaScript
-- 💡 Build real-world projects and collaborate with others
+### 🎓 **Director – Somerset College Saturday School (2025–Present)**  
+- Lead planning and implementation of academic programmes for Grades 10–12.  
+- Oversaw budgeting, staffing, and partnerships.  
+- Expanded programme outreach to township schools and established donor relations.
+
+### 🛰️ **Science Engagement Officer – SANSA (2021–2024)**  
+- Empowered learners to build and program robots.  
+- Coordinated outreach and awareness campaigns to promote space science.  
+- Managed SANSA’s **Instagram and Facebook** pages, boosting engagement.  
+
+### 👩‍🏫 **Teacher – Free State Department of Education (2016–2019)**  
+- Taught **Natural Sciences**, **Physical Sciences**, and **Life Sciences**.  
+
+---
+
+## 🎓 Education & Training  
+- 🎓 **CodeSpace Academy:** Frontend Software Development *(In Progress)*  
+- 🛰️ **Stellenbosch University:** Certificate in Science Communication *(2023)*  
+- 👩‍🏫 **UNISA:** Postgraduate Certificate in Education (Life & Natural Sciences) *(2017–2018)*  
+- 🔬 **University of Limpopo (MEDUNSA):** BSc in Biochemistry, Biology & Psychology *(2010–2014)*  
 
 ---
 
@@ -94,4 +124,8 @@ My next chapter is focused on building web-based solutions that make STEM educat
 ## 🏆 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nthabi2905&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthabi2905&layout=compact&theme=tokyonight)  
+
+---
+> *“Bridging science, technology, and education — one project at a time.”* 🌍
 
