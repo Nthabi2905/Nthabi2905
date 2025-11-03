@@ -48,18 +48,24 @@ My next chapter is focused on building web-based solutions that make STEM educat
 
 ## 📌 Projects
 
-Here are some of my milestone projects (to be updated as I progress!):
+### 🔹 [First GitHub Project](https://github.com/Nthabi2905/HTML-basics)  
+**Description:** My first project exploring GitHub basics — file management, commits, and version control.  
+**Technologies:** Git, HTML  
+**Status:** ✅ Completed  
 
-### **1️⃣ First GitHub Project**
+---
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+### 🔹 [404 Error Page](https://github.com/Nthabi2905/404-error-page)  
+**Description:** A responsive and creative 404 error page built as part of my HTML/CSS learning journey.  
+**Technologies:** HTML, CSS  
+**Status:** ✅ Completed  
 
-### **2️⃣ Personal Portfolio** _(Coming Soon!)_
+---
 
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Technologies:** HTML, CSS
-🔹 **Status:** ⏳ In Progress
+### 🔹 [Personal Portfolio (Coming Soon!)](#)  
+**Description:** A portfolio to showcase my projects and growth as a developer and STEM educator.  
+**Technologies:** HTML, CSS  
+**Status:** ⏳ In Progress  
 
 ---
 
