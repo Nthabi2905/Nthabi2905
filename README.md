@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Nthabiseng Moloi
+# <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/18bbb51a-8f58-48bb-95c3-32259d956dbc" />
+ Hi, I'm Nthabiseng Moloi
 
 ### 🚀Educator | Science Communicator | Beginner Software Developer 
 🌍 Passionate about bridging the gap between **science, technology, and education** through innovative digital tools and creative learning experiences.
