@@ -1,17 +1,15 @@
-# Welcome to my Software Development Journey!
-
 # 👋 Hi, I'm Nthabiseng Moloi
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+### 🚀Educator | Science Communicator | Beginner Software Developer 
+🌍 Passionate about bridging the gap between **science, technology, and education** through innovative digital tools and creative learning experiences.
 
 ---
 
-## 🎯 About Me
 
-- 💡 I'm currently learning **GitHub and version control, HTML, CSS** before diving into coding.
-- 🎓 Soon, I'll be exploring **JavaScript**!
-- 🤖 I love problem-solving and working on creative projects.
-- 🔥 Looking forward to building my first real-world application.
+## 💡 About Me  
+I am a **dynamic and results-driven education and event specialist** with over five years of experience designing and managing successful **science engagement** and **STEM education** programmes.  
+I’m currently transitioning into **software development**, combining my background in **science communication** with my growing skills in **web technologies** to build tools that make STEM more accessible for learners and educators.  
+
 
 ---
 
