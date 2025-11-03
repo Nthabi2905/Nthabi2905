@@ -18,13 +18,13 @@ My next chapter is focused on building web-based solutions that make STEM educat
 ## 💻 Skills & Technologies  
 
 ### 🎓 Core Competencies  
-- 🧠 Curriculum Design & CAPS-Aligned Content Development  
-- 🤖 Coding & Robotics Education  
-- 🗣️ Public Speaking & Science Communication  
-- 📱 Social Media Management (Instagram, Facebook)  
-- 🧩 Project Management & Stakeholder Relations  
-- 💡 Digital Content Creation & Event Coordination  
-- 💰 Fundraising & Donor Reporting
+- Curriculum Design & CAPS-Aligned Content Development  
+- Coding & Robotics Education  
+- Public Speaking & Science Communication  
+- Social Media Management (Instagram, Facebook)  
+- Project Management & Stakeholder Relations  
+- Digital Content Creation & Event Coordination  
+- Fundraising & Donor Reporting
 
 ## 🛠️ Tech Stack
 
@@ -100,10 +100,11 @@ My next chapter is focused on building web-based solutions that make STEM educat
 ---
 
 ## 🎓 Education & Training  
-- 🎓 **CodeSpace Academy:** Frontend Software Development *(In Progress)*  
-- 🛰️ **Stellenbosch University:** Certificate in Science Communication *(2023)*  
-- 👩‍🏫 **UNISA:** Postgraduate Certificate in Education (Life & Natural Sciences) *(2017–2018)*  
-- 🔬 **University of Limpopo (MEDUNSA):** BSc in Biochemistry, Biology & Psychology *(2010–2014)*  
+- **CodeSpace Academy:** Frontend Software Development *(In Progress)*
+- **UK Space National Academy:** Space Science Outreach training *(2024)*
+- **Stellenbosch University:** Certificate in Science Communication *(2023)*  
+- **UNISA:** Postgraduate Certificate in Education (Life & Natural Sciences) *(2017–2018)*  
+- **University of Limpopo (MEDUNSA):** BSc in Biochemistry, Biology & Psychology *(2010–2014)*  
 
 ---
 
